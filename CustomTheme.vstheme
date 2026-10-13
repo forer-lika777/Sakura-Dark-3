@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Sakura Dark 3 (1)" GUID="{6bb4f7a8-2262-4d44-8a22-1001ae069aa2}" BaseGUID="{f4a52422-5cf6-4985-bc10-827b8ea4da8a}">
+  <Theme Name="Sakura Dark 3" GUID="{6bb4f7a8-2262-4d44-8a22-1001ae069aa2}" BaseGUID="{f4a52422-5cf6-4985-bc10-827b8ea4da8a}">
     <Category Name="AI" GUID="{7730ec54-ee62-4fd2-86cc-77071aabb206}">
       <Color Name="PrimaryHighlight">
         <Background Type="CT_RAW" Source="FFA79CF1" />
