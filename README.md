@@ -1,7 +1,7 @@
 ﻿Sakura Dark 3
 ===
 
-Sakura Dark 3 is a custom high-contrast color theme for Visual Studio 2026, featuring a design in pink and purple color.
+Sakura Dark 3 is a custom high-contrast color theme for Visual Studio 2026, featuring a design in light pink accent and dark purple background color.
 
 Screenshot preview:
 
@@ -11,7 +11,7 @@ Color reference:
 
 ![color-reference](Assets/Color-reference.png)
 
-To learn more about Visual Studio 2026 theme, please see:
+To learn more about Visual Studio 2026 theme, see:
 
 * [Modernize Visual Studio theme colors - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/extensibility/migration/modernize-theme-colors?view=visualstudio)
 
